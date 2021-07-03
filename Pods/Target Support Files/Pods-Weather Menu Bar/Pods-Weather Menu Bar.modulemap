@@ -1,0 +1,6 @@
+framework module Pods_Weather_Menu_Bar {
+  umbrella header "Pods-Weather Menu Bar-umbrella.h"
+
+  export *
+  module * { export * }
+}
